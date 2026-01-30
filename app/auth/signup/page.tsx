@@ -62,13 +62,6 @@ export default function SignUpPage() {
               </svg>
             </div>
             <h1 className="text-2xl font-bold text-gray-900">Create Account</h1>
-            <p className="text-gray-500 mt-2">Get 50 free credits to start!</p>
-          </div>
-
-          {/* Credit Badge */}
-          <div className="mb-6 p-4 bg-green-50 border border-green-200 rounded-lg text-center">
-            <span className="text-green-700 font-semibold">🎁 50 Free Credits</span>
-            <p className="text-green-600 text-sm mt-1">Included with your new account</p>
           </div>
 
           {/* Error Message */}
